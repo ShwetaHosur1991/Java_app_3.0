@@ -1,2 +1,6 @@
 change-1
+<<<<<<< HEAD
 Chnage -1
+=======
+change-2
+>>>>>>> feature
